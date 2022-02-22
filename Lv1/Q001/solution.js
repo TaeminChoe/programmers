@@ -1,3 +1,5 @@
+/* 신규 아이디 등록 */
+
 const solution = (new_id) => {
   // 1. 대문자 -> 소문자
   var answer = new_id.toLowerCase();

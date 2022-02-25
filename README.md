@@ -12,3 +12,4 @@
 - Q004. 없는 숫자 더하기 -> https://programmers.co.kr/learn/courses/30/lessons/86051
 - Q005. 음양 더하기 -> https://programmers.co.kr/learn/courses/30/lessons/76501
 - Q006. 내적 -> https://programmers.co.kr/learn/courses/30/lessons/70128
+- Q007. 짝지어 제거하기 -> https://programmers.co.kr/learn/courses/30/lessons/12973
